@@ -174,12 +174,12 @@ surprised".
 ### Cerata
 
 Kobolds have two fleshy protuberances on the tops of their heads called cerata
-(singular: ceras). They are located above and behind the eyes in a location
-similar to canine or feline ears, though they have no involvement in hearing.
-They are generally 4-6 inches long in adults and somewhat plump for their
-length. They are covered in scales that generally match the rest of the
-individuals' head scales, though in feathered individuals, they may also have
-feathers.
+(se-RAH-tuh /sə.ˈɹɑ.tə/, singular: ceras). They are located above and behind the
+eyes in a location similar to canine or feline ears, though they have no 
+involvement in hearing. They are generally 4-6 inches long in adults and somewhat 
+plump for their length. They are covered in scales that generally match the rest 
+of the individuals' head scales, though in feathered individuals, they may also 
+have feathers.
 
 Their exact biological function is unclear, but they are controllable by an
 individual via muscles on top of their head and movement of them is used
